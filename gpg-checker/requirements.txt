@@ -1,4 +1,0 @@
-requests
-gnupg
-datetime
-
